@@ -1,3 +1,5 @@
+import utils
+
 # This program prints Hello, world!
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
@@ -32,3 +34,7 @@ class BigDog:
 doggo = BigDog("Layla", "Maremma")
 doggo.bark()
 doggo.getBreed()
+
+# Utilising seperate files functions
+utils.getSome()
+utils.loopOverStuff()
