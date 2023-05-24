@@ -8,6 +8,10 @@ def loopOverStuff():
     for y in ['I', 'Love', 'Steak']:
         print(y)
 
+def printAllTheThings(): 
+    for x in range(0, 10):
+        print(x)
+
 def multiplyMatrix():
     # 3x3 matrix
     X = [[12,7,3],

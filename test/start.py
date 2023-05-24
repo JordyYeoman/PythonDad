@@ -38,3 +38,6 @@ doggo.getBreed()
 # Utilising seperate files functions
 utils.getSome()
 utils.loopOverStuff()
+
+# simple for loop examples
+utils.printAllTheThings()
