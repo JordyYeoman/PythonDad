@@ -41,6 +41,3 @@ utils.loopOverStuff()
 
 # simple for loop examples
 utils.printAllTheThings()
-
-def getFed():
-  print("Bork, food plz")
