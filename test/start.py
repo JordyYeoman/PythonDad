@@ -44,3 +44,5 @@ utils.printAllTheThings()
 
 def feedPlz():
   print("BORK, feed me sir.")
+
+feedPlz()
