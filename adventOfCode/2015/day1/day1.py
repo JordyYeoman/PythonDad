@@ -24,7 +24,7 @@ while 1:
     # do stuff      
     startingFloor += movements[char]
 
-print(startingFloor)
+print(startingFloor) # Floor 74
 
 # send it
 file.close()
